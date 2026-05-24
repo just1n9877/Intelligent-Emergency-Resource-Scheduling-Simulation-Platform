@@ -15,7 +15,7 @@
 
 ## Demo Preview
 
-Most images below are real screenshots from the running app. `landing_page.png` is still a placeholder until a landing-page screenshot is captured and saved with the same filename.
+The images below are screenshots from the running app.
 
 | Landing | Scenarios | Network |
 | --- | --- | --- |
