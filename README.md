@@ -15,7 +15,7 @@
 
 ## Demo Preview
 
-The images below are clearly labeled placeholders until you run the project and replace them with real screenshots.
+Most images below are real screenshots from the running app. `landing_page.png` is still a placeholder until a landing-page screenshot is captured and saved with the same filename.
 
 | Landing | Scenarios | Network |
 | --- | --- | --- |
@@ -25,7 +25,7 @@ The images below are clearly labeled placeholders until you run the project and 
 | --- | --- | --- |
 | ![Simulation control](docs/images/simulation_control.png) | ![Results dashboard](docs/images/results_dashboard.png) | ![Report page](docs/images/report_page.png) |
 
-To generate real screenshots, start the app, open `/`, `/scenarios`, `/network`, `/simulation`, `/results`, and `/report`, then replace the placeholder PNG files in `docs/images/`.
+To refresh screenshots, start the app, open `/`, `/scenarios`, `/network`, `/simulation`, `/results`, and `/report`, then replace the matching PNG files in `docs/images/`.
 
 ## Quick Start
 
