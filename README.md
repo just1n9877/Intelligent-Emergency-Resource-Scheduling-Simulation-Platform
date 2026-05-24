@@ -25,8 +25,6 @@ The images below are screenshots from the running app.
 | --- | --- | --- |
 | ![Simulation control](docs/images/simulation_control.png) | ![Results dashboard](docs/images/results_dashboard.png) | ![Report page](docs/images/report_page.png) |
 
-To refresh screenshots, start the app, open `/`, `/scenarios`, `/network`, `/simulation`, `/results`, and `/report`, then replace the matching PNG files in `docs/images/`.
-
 ## Quick Start
 
 ```bash
