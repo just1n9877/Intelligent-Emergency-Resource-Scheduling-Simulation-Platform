@@ -1,0 +1,15 @@
+.env
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+.venv/
+node_modules/
+.next/
+dist/
+postgres_data/
+*.pyc
+*.log
+*.pid
+*.job
